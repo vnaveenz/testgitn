@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 btesting reverse merge
+
+
+>>>>>>> hf1
 Testing merge and stash at the same time
